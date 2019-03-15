@@ -1,0 +1,23 @@
+{
+    "name": "max",
+    "value" : 100,
+    "children": [
+    {
+        "name": "sylvia",
+        "value" : 75,
+        "children": [
+            {"name": "amit", "value" : 25},
+            {"name": "alok", "value" : 25},
+            {"name": "anuj", "value" : 25}
+        ]
+    },
+    {
+        "name": "Mohanlal",
+        "value" : 75,
+        "children": [
+            {"name": "govinda", "value" : 25},
+            {"name": "sunny deol", "value" : 25}
+        ]
+    }
+    ]
+}
